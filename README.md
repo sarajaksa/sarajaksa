@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+My name is Sara Jakša and I live in Ljubljana. At work I am a software developer at [LeanIX](https://www.leanix.net). I spent the last couple of years working on the third-party integrations and some backend, and am now switching to the frontend development. 
+
+You can find more about me on my website [https://sarajaksa.eu](https://sarajaksa.eu). For my past presentations and cv you can go to my [CV page](https://sarajaksa.eu/cv).
+
+You can contact me through email [sarajaksa@sarajaksa.eu](mailto:sarajaksa@sarajaksa.eu). I have the list of other services that I am using and I am not using on the main page of my website. Feel free to reach up for any reason. 
 
 <!--
 **sarajaksa/sarajaksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
